@@ -5,6 +5,10 @@
 !*/
 !*.*
 
+# Unignore LICENSE and README.md
+!LICENSE
+!README.md
+
 # Object files
 *.o
 
